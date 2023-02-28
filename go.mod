@@ -1,6 +1,6 @@
 module github.com/tailscale/caddy-tailscale
 
-go 1.19
+go 1.20
 
 require (
 	github.com/caddyserver/caddy/v2@v2.6.4
